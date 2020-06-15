@@ -1,5 +1,5 @@
 const BASE_URL = "https://www.monstercat.com/";
-https: describe("Get the world record in accessing Speed Run by CloudNone and playing it", () => {
+describe("Get the world record in accessing Speed Run by CloudNone and playing it", () => {
    it("Should get the world record!!!!!11", () => {
       cy.visit(BASE_URL);
 
