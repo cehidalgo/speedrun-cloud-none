@@ -1,0 +1,16 @@
+{
+   "name": "speedrun-cloud-none",
+   "version": "0.0.1",
+   "description": "Just a TAS for a very incredible artist!",
+   "main": "run-selenium.js",
+   "scripts": {
+      "start": "cypress open",
+      "film": "cypress run",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "Cadú Hidalgo",
+   "license": "MIT",
+   "devDependencies": {
+      "cypress": "^4.8.0"
+   }
+}
